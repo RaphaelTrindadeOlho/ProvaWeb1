@@ -46,7 +46,7 @@ Durante o desenvolvimento da aplicação, todos os endpoints foram testados no P
 <img src="src/assets/GETPRO.png" width="880" />
 
 - **GET{}**
-<img src="src/assets/DELETEPRO.png" width="880" />
+<img src="src/assets/GETPRO{}.png" width="880" />
 
 - **POST**
 <img src="src/assets/POSTPRO.png" width="880" />
@@ -64,7 +64,7 @@ Durante o desenvolvimento da aplicação, todos os endpoints foram testados no P
 <img src="src/assets/GETUSER.png" width="880" />
 
 - **GET{}**
-<img src="src/assets/DELETEUSER.png" width="880" />
+<img src="src/assets/GETUSER{}.png" width="880" />
 
 - **POST**
 <img src="src/assets/POSTUSER.png" width="880" />
