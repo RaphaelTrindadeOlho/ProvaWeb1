@@ -43,18 +43,37 @@ Durante o desenvolvimento da aplicação, todos os endpoints foram testados no P
 
 ### **PRODUTOS:**
 - **GET**
-![Descrição da Imagem]([https://link-da-imagem.com/imagem.png](https://cdn.discordapp.com/attachments/611574253539819530/1357534121777299516/image.png?ex=67f08dac&is=67ef3c2c&hm=cdbb2776b0de2e3d48e9553675deff216614e57447656997021f5a28ba58e28e&format=webp&quality=lossless))
+<img src="src/assets/GETPRO.png" width="880" />
+
 - **GET{}**
+<img src="src/assets/DELETEPRO.png" width="880" />
+
 - **POST**
+<img src="src/assets/POSTPRO.png" width="880" />
+
 - **PUT**
+<img src="src/assets/PUTPRO.png" width="880" />
+
 - **DELETE**
+<img src="src/assets/DELETEPRO.png" width="880" />
+
+
 
 ### **USUÁRIOS:**
 - **GET**
+<img src="src/assets/GETUSER.png" width="880" />
+
 - **GET{}**
+<img src="src/assets/DELETEUSER.png" width="880" />
+
 - **POST**
+<img src="src/assets/POSTUSER.png" width="880" />
+
 - **PUT**
+<img src="src/assets/PUTUSER.png" width="880" />
+
 - **DELETE**
+<img src="src/assets/DELETEUSER.png" width="880" />
 
 ## DIFICULDADES
 - **Configuração do Banco de Dados:** A configuração do banco de dados levou algum tempo para ser ajustada corretamente, principalmente no que se refere à criação das tabelas e ao ajuste da string de conexão.
