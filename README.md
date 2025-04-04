@@ -43,6 +43,7 @@ Durante o desenvolvimento da aplicação, todos os endpoints foram testados no P
 
 ### **PRODUTOS:**
 - **GET**
+![Descrição da Imagem]([https://link-da-imagem.com/imagem.png](https://cdn.discordapp.com/attachments/611574253539819530/1357534121777299516/image.png?ex=67f08dac&is=67ef3c2c&hm=cdbb2776b0de2e3d48e9553675deff216614e57447656997021f5a28ba58e28e&format=webp&quality=lossless))
 - **GET{}**
 - **POST**
 - **PUT**
